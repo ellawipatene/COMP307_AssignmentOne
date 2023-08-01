@@ -1,4 +1,7 @@
 # COMP307_A1
+This assignment covered the coding of the following algorithms: KNN, Decision Tree and Perceptron
+
+
 
 Please note that for all of the datasets to upload properly,
 they should be in the same folder as the python files. 
